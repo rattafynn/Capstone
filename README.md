@@ -17,7 +17,8 @@
 
     6. The Jupyter notebooks contains all the details of the python scripts, ranging from the data cleaning 
     and missing data imputation process to the machine learning model. There are two notebooks: one with 25 
-    features (small) and another with 51 features (large). The PDF presentation was based on the large data set.
+    features (small) and another with 51 features (large). The PDF presentation was based on the large 
+    data set.
 
     7.The geospatial modeling portion of the work was done elsewhere using arcgis.
     
